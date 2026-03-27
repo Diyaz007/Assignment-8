@@ -232,5 +232,4 @@ spring.h2.console.path=/h2-console
 
 ## Автор
 
-[Diyaz]
-```
+#Diyaz
